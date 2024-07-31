@@ -1,0 +1,5 @@
+Give sample data. 
+
+1. Patient Table: patient id, name, address, age, dob, gender, blood type, height, weight, 
+2. Relationship Table: patient id, mothers name, mother dob, mother death_date, father dob, father death_date, mother dieases, father dieases
+3. Health_Checkup_Record: patient id, date, Temperature, blood pressure(mmHg), Heart Rate (bpm), Cholesterol (mg/dL), Blood Sugar (mg/dL), BMI , Allergies, Body Oxygen, Respiratory rate(breaths per minute), Physical injuries 
